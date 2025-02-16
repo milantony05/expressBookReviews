@@ -25,8 +25,7 @@ To run this project locally:
    ```bash
    npm start
    ```
-5. **Open in browser**:
-   
+5. **Open in browser**:<br>
    Go to `http://localhost:5000` to access the API using [Postman](https://www.postman.com).
 
 ## Technologies Used
